@@ -3,3 +3,4 @@ my-testing.iml
 my-testing.iws
 build
 .gradle
+.DS_Store
